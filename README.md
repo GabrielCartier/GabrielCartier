@@ -1,11 +1,5 @@
 <!-- Profile README for Gabriel Cartier -->
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/4060669?v=4" width="120" alt="Gabriel Cartier" style="border-radius:50%">
-</p>
-
-<h1 align="center">Gabriel Cartier</h1>
-<h3 align="center">Senior Full Stack Engineer | Web3 & AI Enthusiast</h3>
+<h1 align="center">Senior Full Stack Engineer | Web3 & AI Enthusiast</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-blue?style=flat-square" alt="Location Badge"/>
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20Français-yellow?style=flat-square" alt="Languages"/>
