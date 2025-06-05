@@ -37,12 +37,12 @@ I'm Gabriel, a **Senior Full Stack Engineer** with 12+ years of experience build
 
 ### 🏆 Achievements & Highlights
 
-- Architected & launched a custom **NFT marketplace protocol** (infra, contracts, frontend)
+- Architected & launched a custom **NFT marketplace protocol** (infra, [contracts](https://github.com/echonft/echo-contracts), [frontend](https://github.com/echonft/echo))
 - Built **cross-chain DeFAi apps** on Sonic, Avalanche, and Arbitrum ([Optimal AI](https://optimal-ai-deployment.vercel.app/))
 - Developed **token ecosystems** (VRF gambling, auctions, vaults) on SEI Network  
   [VRF App](https://www.battlechips.xyz/) ・ [Auction](https://www.chipspromotions.xyz/) ・ [Vault](https://www.chipstrust.xyz/) ・ [Contest](https://www.chipsroyale.xyz/)
-- 20+ smart contracts on Ethereum, Blast, SEI, Arbitrum
-- 2M+ USD NFT trading, 5B+ USD exchange volume (Vela Exchange)
+- 20+ smart contracts on Ethereum, Blast, SEI, Base
+- 2M+ USD NFT trading, 5B+ USD exchange volume
 - ⚡️ Multiple hackathon wins ([ETH Global](https://ethglobal.com/showcase/aroha-8g7cw), [Safe Agenthon](https://devfolio.co/projects/optimalai-9d1b), [Solana Colosseum](https://arena.colosseum.org/projects/explore/eggsight-1))
 - Published research at security conference: [Next-generation DoS at the higher layers](https://www.researchgate.net/publication/278410454_Next-generation_DoS_at_the_higher_layers_A_study_of_SMTP_flooding)
 
