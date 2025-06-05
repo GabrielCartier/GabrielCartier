@@ -11,7 +11,7 @@
 
 ### 👋 About Me
 
-I'm Gabriel, a **Senior Full Stack Engineer** with 12+ years of experience building and scaling tech ventures across Web2 and Web3. I specialize in architecting and shipping robust blockchain and AI solutions, leading engineering teams, and bringing ideas from whiteboard to production. Currently based in Bangkok, Thailand (UTC+07:00).
+I'm Gabriel, a **Senior Full Stack Engineer** with 12+ years of experience building and scaling tech ventures across Web2 and Web3. I specialize in architecting and shipping robust blockchain and AI solutions, leading engineering teams, and bringing ideas from whiteboard to production.
 
 - **Web3 Expert:** 4+ years building end-to-end blockchain apps, smart contracts, and DeFi protocols.
 - **Engineering Leader:** Scaled teams from 3 to 20+, co-founded successful startups.
