@@ -44,7 +44,7 @@ I'm Gabriel, a **Senior Full Stack Engineer** with 12+ years of experience build
 - 20+ smart contracts on Ethereum, Blast, SEI, Arbitrum
 - 2M+ USD NFT trading, 5B+ USD exchange volume (Vela Exchange)
 - ⚡️ Multiple hackathon wins ([ETH Global](https://ethglobal.com/showcase/aroha-8g7cw), [Safe Agenthon](https://devfolio.co/projects/optimalai-9d1b), [Solana Colosseum](https://arena.colosseum.org/projects/explore/eggsight-1))
-- Published research at top security conferences: [Next-generation DoS at the higher layers](https://www.researchgate.net/publication/278410454_Next-generation_DoS_at_the_higher_layers_A_study_of_SMTP_flooding)
+- Published research at security conference: [Next-generation DoS at the higher layers](https://www.researchgate.net/publication/278410454_Next-generation_DoS_at_the_higher_layers_A_study_of_SMTP_flooding)
 
 ---
 
