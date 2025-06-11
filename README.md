@@ -61,7 +61,9 @@ I'm Gabriel, a **Senior Full Stack Engineer** with 12+ years of experience build
 
 ### 🥋 Fun Fact
 
-- "Professional" Muay Thai fighter, ex-rugby player, now rolling in Brazilian Jiu Jitsu.
+- "Professional" Muay Thai fighter 🥊
+- Ex-rugby player 🏉
+- Now rolling in Brazilian Jiu Jitsu 🥋
 
 ---
 
